@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="hintlog">Введите логин</string>
+    <string name="hintpas">Введите пароль</string>
+    <string name="hintpas2">Подтвердите пароль</string>
+    <string name="next">Далее</string>
+    <string name="save">Сохранить</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="enter">Войти</string>
+</resources>
